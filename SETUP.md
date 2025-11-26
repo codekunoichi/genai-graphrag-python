@@ -1,6 +1,6 @@
 # Setup
 
-This repository accompanies the [Neo4j and GenerativeAI Fundamentals course](ttps://graphacademy.neo4j.com/courses/genai-graphrag-python/) on [GraphAcademy](https://graphacademy.neo4j.com).
+This repository accompanies the [Constructing Knowledge Graphs with Neo4j GraphRAG for Python course](https://graphacademy.neo4j.com/courses/genai-graphrag-python/) on [GraphAcademy](https://graphacademy.neo4j.com).
 
 When the devcontainer is created, such as in a GitHub codespace, all the required software and packages will be installed.
 
