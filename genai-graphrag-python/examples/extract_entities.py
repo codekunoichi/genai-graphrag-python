@@ -13,12 +13,7 @@ from neo4j_graphrag.experimental.components.types import (
 from neo4j_graphrag.llm import OpenAILLM
 
 text = """
-Neo4j is a graph database that stores data in a graph structure.
-Data is stored as nodes and relationships instead of tables or documents.
-Graph databases are particularly useful when _the connections between data are as important as the data itself_.
-A graph shows how objects are related to each other.
-The objects are referred to as *nodes* (vertices) connected by *relationships* (edges).
-Neo4j uses the graph structure to store data and is known as a *labeled property graph*.
+The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France.
 """
 
 extractor = LLMEntityRelationExtractor(
